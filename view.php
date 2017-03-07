@@ -86,10 +86,11 @@
 
 		  </head>
 	<body>
-		<h3><u> Answer No: 1 </u></h3>
+		
 		<?php include "nav.php" ?>
 
 		<div class="container">
+			<h3><u> Answer No: 1 </u></h3>
 		
 		<h1>Registered Users</h1>
 		<br>
